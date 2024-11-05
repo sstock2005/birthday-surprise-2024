@@ -1,0 +1,13 @@
+[package]
+name = "birthday-gift"
+version = "0.2024.0"
+authors = ["Sam Stockstrom <sstock2005@outlook.com>"]
+
+[dependencies.sdl2]
+version = "0.37"
+default-features = false
+features = ["ttf","image"]
+
+[dependencies.bsod]
+version = "0.1.1"
+default-features = false
